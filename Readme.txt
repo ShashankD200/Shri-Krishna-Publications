@@ -25,4 +25,4 @@ This website serves as a promotional platform for SHRI KRISHNA PUBLICATIONS- RAI
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/shri-krishna-publications.git
+   git clone https://github.com/ShashankD200/Shri-Krishna-Publications
